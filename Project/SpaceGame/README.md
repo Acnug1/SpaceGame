@@ -30,9 +30,8 @@
 В результате данный проект можно назвать полностью играбельным конечным продуктом.
 <br/>
 <br/>
-#### Ссылки на туториал
+Ссылки на туториал:
 <br/>
-
 [Часть 1.](https://www.youtube.com/watch?time_continue=1&v=d24bS2GwcOs&feature=emb_logo "Часть 1")
 <br/>
 [Часть 2.](https://www.youtube.com/watch?time_continue=2&v=gadVIDCdXSo&feature=emb_logo "Часть 2")
