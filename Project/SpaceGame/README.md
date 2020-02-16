@@ -32,10 +32,6 @@
 <br/>
 <br/>
 ##### Ссылка на туториал от Skillbox: 
-Часть 1. <https://www.youtube.com/watch?time_continue=1&v=d24bS2GwcOs&feature=emb_logo>
-<br/>
-<br/>
-Часть 2. <https://www.youtube.com/watch?time_continue=2&v=gadVIDCdXSo&feature=emb_logo>
-<br/>
-<br/>
-Часть 3. <https://www.youtube.com/watch?time_continue=5049&v=GngASagMtiY&feature=emb_logo>
+1. <https://www.youtube.com/watch?time_continue=1&v=d24bS2GwcOs&feature=emb_logo>
+2. <https://www.youtube.com/watch?time_continue=2&v=gadVIDCdXSo&feature=emb_logo>
+3. <https://www.youtube.com/watch?time_continue=5049&v=GngASagMtiY&feature=emb_logo>
