@@ -5,7 +5,7 @@
 <br/>
 <br/>
 ##### Видео на youtube с записью геймплея игры: 
-<https://www.youtube.com/watch?v=X6XFSN7KccQ&t=2s>
+[![](http://img.youtube.com/vi/X6XFSN7KccQ/0.jpg)](http://www.youtube.com/watch?v=X6XFSN7KccQ "")
 <br/>
 <br/>
 ##### Краткое описание игры:
