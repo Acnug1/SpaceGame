@@ -12,7 +12,6 @@ public class PlayerScript : MonoBehaviour
     public GameObject LazerShotGreen; // Объявляем объект лазерный выстрел
     public GameObject LazerShotBlue;
     public GameObject LazerShotBlue2;
-
     public float speed; // Публичная переменная (Отображается в Unity)
     public float tilt; // Наклон
     public float xMin, xMax, zMin, zMax; // Ограничить движение
